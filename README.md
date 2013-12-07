@@ -1,5 +1,12 @@
 confs
 =====
+
+### How 'bout giving this site a stalk?
+ * [CSS Confs](http://lanyrd.com/topics/css/)
+ * [JS Confs](http://lanyrd.com/topics/javascript/)
+ * [SASS Confs](http://lanyrd.com/topics/sass/)
+ 
+----------------------------
  
 # Template
 ## 
