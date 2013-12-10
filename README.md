@@ -55,8 +55,17 @@ confs
  * [**Location**]: Warsaw, Poland
  * [**URL**]: http://2014.front-trends.com/
  * [**Proposal**]: [form](https://docs.google.com/forms/d/17EzSftOMZ1xH9_aLKJG_x5VtGboEuJ55rhM7G_m_KZg/viewform)
- * [**Deadline**]: end of March 2014
+ * [**Deadline**]: 31.03.2014
  * [**Expenses covered**]: n/a 
+
+
+## jsDay
+ * [**Date**]: 14 - 15.05.2014
+ * [**Location**]: Verona, Italy
+ * [**URL**]: http://2014.jsday.it/
+ * [**Proposal**]: [form](http://2014.jsday.it/call-for-papers/)
+ * [**Deadline**]: 28.02.2014
+ * [**Expenses covered**]: travel (up to €200) + accomodation (up to 2 nights)
 
 
 ## JSConf US
@@ -64,5 +73,5 @@ confs
  * [**Location**]: Amelia Island, Florida, US
  * [**URL**]: http://2014.jsconf.us/
  * [**Proposal**]: [form](https://docs.google.com/spreadsheet/viewform?formkey=dG5rWWZSNDA1SWMtbWxncUZoYmN2VWc6MA)
- * [**Deadline**]: January 10, 2014
- * [**Expenses covered**]: travel + hotel
+ * [**Deadline**]: 10.01.2014
+ * [**Expenses covered**]: travel (incl. airport-hotel) + hotel (up to 4 nights)
