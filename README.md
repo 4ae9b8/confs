@@ -32,6 +32,15 @@ confs
  *  [**Expenses covered**]: n/a
 
 
+## JS Unconf
+ * [**Date**]: 26 - 27.04.2014
+ * [**Location**]: Hamburg, Germany
+ * [**URL**]: http://2014.jsunconf.eu/
+ * [**Proposal**]: [form](http://contribs.jsunconf.eu/contribs/add)
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a
+
+
 ## FutureJS
  * [**Date**]: 1 - 3.05.2014
  * [**Location**]: [Auditorio y Centro de Convenciones AXA - Auditori, Barcelona, Spain](https://plus.google.com/111070849624290166640/about)
@@ -45,7 +54,7 @@ confs
  * [**Date**]: 7 - 9.05.2014
  * [**Location**]: Warsaw, Poland
  * [**URL**]: http://2014.front-trends.com/
- * [**Proposal**]: https://docs.google.com/forms/d/17EzSftOMZ1xH9_aLKJG_x5VtGboEuJ55rhM7G_m_KZg/viewform
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/17EzSftOMZ1xH9_aLKJG_x5VtGboEuJ55rhM7G_m_KZg/viewform)
  * [**Deadline**]: end of March 2014
  * [**Expenses covered**]: n/a 
 
@@ -54,6 +63,6 @@ confs
  * [**Date**]: 28 - 30.05.2014
  * [**Location**]: Amelia Island, Florida, US
  * [**URL**]: http://2014.jsconf.us/
- * [**Proposal**]: https://docs.google.com/spreadsheet/viewform?formkey=dG5rWWZSNDA1SWMtbWxncUZoYmN2VWc6MA
+ * [**Proposal**]: [form](https://docs.google.com/spreadsheet/viewform?formkey=dG5rWWZSNDA1SWMtbWxncUZoYmN2VWc6MA)
  * [**Deadline**]: January 10, 2014
  * [**Expenses covered**]: travel + hotel
