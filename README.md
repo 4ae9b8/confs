@@ -32,13 +32,23 @@ confs
  *  [**Expenses covered**]: n/a
 
 
+## Berlin Expert Days
+ * [**Date**]: 3 - 4.04.2014
+ * [**Location**]: Berlin, Germany
+ * [**URL**]: http://bed-con.org/
+ * [**Proposal**]: [form](http://bed-con.org/2014/cfp) (English or German)
+ * [**Deadline**]: 15.01.2014
+ * [**Expenses covered**]: n/a
+
+
+
 ## Devoxx France
  * [**Date**]: 16 - 18.04.2014
  * [**Location**]: Paris, France
  * [**URL**]: http://www.devoxx.fr/
- * [**Proposal**]: [CFP](http://cfp.devoxx.fr/)
- * [**Deadline**]: 02.02.2014
- * [**Expenses covered**]: n/a
+ * [**Proposal**]: [CFP](http://cfp.devoxx.fr/) (English or French)
+ * [**Deadline**]: 2.02.2014
+ * [**Expenses covered**]: no
 
 
 ## JS Unconf
