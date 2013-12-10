@@ -40,3 +40,20 @@ confs
  * [**Deadline**]: n/a
  * [**Expenses covered**]: n/a
 
+
+## Front-Trends
+ * [**Date**]: 7 - 9.05.2014
+ * [**Location**]: Warsaw, Poland
+ * [**URL**]: http://2014.front-trends.com/
+ * [**Proposal**]: https://docs.google.com/forms/d/17EzSftOMZ1xH9_aLKJG_x5VtGboEuJ55rhM7G_m_KZg/viewform
+ * [**Deadline**]: end of March 2014
+ * [**Expenses covered**]: n/a 
+
+
+## JSConf US
+ * [**Date**]: 28 - 30.05.2014
+ * [**Location**]: Amelia Island, Florida, US
+ * [**URL**]: http://2014.jsconf.us/
+ * [**Proposal**]: https://docs.google.com/spreadsheet/viewform?formkey=dG5rWWZSNDA1SWMtbWxncUZoYmN2VWc6MA
+ * [**Deadline**]: January 10, 2014
+ * [**Expenses covered**]: travel + hotel
