@@ -32,6 +32,15 @@ confs
  *  [**Expenses covered**]: n/a
 
 
+## JS.everywhere(Europe)
+ * [**Date**]: 27 - 28.03.2014
+ * [**Location**]: Paris, France
+ * [**URL**]: http://jseverywhere.eu/
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/1jUlzfq6tGYMICkkaMHuuGNlEBTRl8uO1_6Uv1tMe40o/viewform)
+ * [**Deadline**]: 12.01.2014
+ * [**Expenses covered**]: no
+
+
 ## Berlin Expert Days
  * [**Date**]: 3 - 4.04.2014
  * [**Location**]: Berlin, Germany
