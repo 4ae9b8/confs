@@ -32,6 +32,15 @@ confs
  *  [**Expenses covered**]: n/a
 
 
+## Devoxx France
+ * [**Date**]: 16 - 18.04.2014
+ * [**Location**]: Paris, France
+ * [**URL**]: http://www.devoxx.fr/
+ * [**Proposal**]: [CFP](http://cfp.devoxx.fr/)
+ * [**Deadline**]: 02.02.2014
+ * [**Expenses covered**]: n/a
+
+
 ## JS Unconf
  * [**Date**]: 26 - 27.04.2014
  * [**Location**]: Hamburg, Germany
