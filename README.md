@@ -95,6 +95,15 @@ confs
  * [**Deadline**]: 28.02.2014
  * [**Expenses covered**]: travel (up to €200) + accomodation (up to 2 nights)
 
+ 
+## BACON
+ * [**Date**]: 16 - 17.05.2014
+ * [**Location**]: London, UK
+ * [**URL**]: http://devslovebacon.com/
+ * [**Proposal**]: [form](http://devslovebacon.com/conferences/bacon-2014/submissions/new)
+ * [**Deadline**]: 16.01.2014
+ * [**Expenses covered**]: n/a
+
 
 ## JSConf US
  * [**Date**]: 28 - 30.05.2014
