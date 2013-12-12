@@ -54,7 +54,7 @@ confs
  * [**Expenses covered**]: n/a
 
 
-## CSSConf Australia 2014
+## CSSConf Australia
  * [**Date**]: 9.04.2014
  * [**Location**]: Melbourne, Australia
  * [**URL**]: http://2014.cssconf.com.au/
