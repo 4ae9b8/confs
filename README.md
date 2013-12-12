@@ -61,7 +61,7 @@ confs
  * [**Twitter**]: [@cssconfau](https://twitter.com/cssconfau)
  * [**Proposal**]: SOON
  * [**Deadline**]: n/a
- * [**Expenses covered**]: no
+ * [**Expenses covered**]: n/a
 
 
 ## Devoxx France
