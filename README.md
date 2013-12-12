@@ -50,6 +50,14 @@ confs
  * [**Expenses covered**]: n/a
 
 
+## CSSConf Australia 2014
+ * [**Date**]: 9.04.2014
+ * [**Location**]: Melbourne, Australia
+ * [**URL**]: http://2014.cssconf.com.au/
+ * [**Proposal**]: SOON
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: no
+
 
 ## Devoxx France
  * [**Date**]: 16 - 18.04.2014
