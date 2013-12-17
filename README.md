@@ -132,3 +132,13 @@ confs
  * [**Proposal**]: [form](https://docs.google.com/spreadsheet/viewform?formkey=dG5rWWZSNDA1SWMtbWxncUZoYmN2VWc6MA)
  * [**Deadline**]: 10.01.2014
  * [**Expenses covered**]: travel (incl. airport-hotel) + hotel (up to 4 nights)
+
+
+## From The Front
+ * [**Date**]: 18 - 19.09.2014
+ * [**Location**]: Bologna, Italy
+ * [**URL**]: http://2014.fromthefront.it/
+ * [**Twitter**]: [@fromthefront](https://twitter.com/fromthefront)
+ * [**Proposal**]: n/a
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a
