@@ -142,3 +142,23 @@ confs
  * [**Proposal**]: n/a
  * [**Deadline**]: n/a
  * [**Expenses covered**]: n/a
+
+
+## CSS Dev Conf
+ * [**Date**]: 13 - 15.10.2014
+ * [**Location**]: New Orleans, US
+ * [**URL**]: http://2014.cssdevconf.com/
+ * [**Twitter**]: [@cssdevconf](https://twitter.com/cssdevconf)
+ * [**Proposal**]: TBA
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a
+
+
+## Full Frontal
+ * [**Date**]: 7.11.2014
+ * [**Location**]: Brighton, UK
+ * [**URL**]: full-frontal.org
+ * [**Twitter**]: [@fullfrontalconf](https://twitter.com/fullfrontalconf)
+ * [**Proposal**]: n/a
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: travel (incl. airport to hotel) + hotel
