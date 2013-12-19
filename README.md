@@ -9,6 +9,12 @@ confs
  * [SASS Confs](http://lanyrd.com/topics/sass/)
  
 ----------------------------
+
+# Check out
+
+blendconf https://twitter.com/blendconf/status/413681788536758272
+
+----------------------------
  
 # Template
 ## 
