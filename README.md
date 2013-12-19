@@ -157,7 +157,7 @@ confs
 ## Full Frontal
  * [**Date**]: 7.11.2014
  * [**Location**]: Brighton, UK
- * [**URL**]: full-frontal.org
+ * [**URL**]: http://full-frontal.org/
  * [**Twitter**]: [@fullfrontalconf](https://twitter.com/fullfrontalconf)
  * [**Proposal**]: n/a
  * [**Deadline**]: n/a
