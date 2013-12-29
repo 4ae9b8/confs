@@ -13,6 +13,7 @@ confs
 # Check out
 
 blendconf https://twitter.com/blendconf/status/413681788536758272
+[Frontendrescue List of Confs](https://twitter.com/frontendrescue/conferences/members)
 
 ----------------------------
  
