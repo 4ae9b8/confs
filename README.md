@@ -41,7 +41,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: n/a
 
 
-JSConf Uruguay
+## JSConf Uruguay
  * [**Date**]: 14- 15.03.2014
  * [**Location**]: Montevideo, Uruguay
  * [**URL**]: httphttp://jsconf.uy/
