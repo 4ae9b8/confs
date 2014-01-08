@@ -119,7 +119,17 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Twitter**]: [@fronttrends](https://twitter.com/fronttrends)
  * [**Proposal**]: [form](https://docs.google.com/forms/d/17EzSftOMZ1xH9_aLKJG_x5VtGboEuJ55rhM7G_m_KZg/viewform)
  * [**Deadline**]: 31.03.2014
- * [**Expenses covered**]: n/a 
+ * [**Expenses covered**]: n/a
+
+
+## Scotland JS
+ * [**Date**]: 9 - 10.05.2014
+ * [**Location**]: Edinburgh, UK
+ * [**URL**]: http://scotlandjs.com/
+ * [**Twitter**]: [@scotlandjs](https://twitter.com/scotlandjs)
+ * [**Proposal**]: [form](http://cfp.scotlandjs.com/)
+ * [**Deadline**]: 12.02.2014
+ * [**Expenses covered**]: n/a
 
 
 ## jsDay
