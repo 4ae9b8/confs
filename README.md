@@ -41,6 +41,17 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: n/a
 
 
+JSConf Uruguay
+ * [**Date**]: 14- 15.03.2014
+ * [**Location**]: Montevideo, Uruguay
+ * [**URL**]: httphttp://jsconf.uy/
+ * [**Twitter**]: [@JSConfUY](https://twitter.com/JSConfUY)
+ * [**Proposal**]: [proposals](http://jsconf.uy/proposals)
+ * [**Deadline**]: 17.01.2014
+ * [**Expenses covered**]: transport + hotel (2 nights before + 1 night after)
+
+
+
 ## JS.everywhere(Europe)
  * [**Date**]: 27 - 28.03.2014
  * [**Location**]: Paris, France
