@@ -79,7 +79,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Twitter**]: [@cssconfau](https://twitter.com/cssconfau)
  * [**Proposal**]: SOON
  * [**Deadline**]: n/a
- * [**Expenses covered**]: n/a
+ * [**Expenses covered**]: n/a (probably)
 
 
 ## Devoxx France
@@ -150,6 +150,16 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Proposal**]: [form](http://devslovebacon.com/conferences/bacon-2014/submissions/new)
  * [**Deadline**]: 16.01.2014
  * [**Expenses covered**]: n/a
+
+
+## CSSSConf US
+ * [**Date**]: 27.05.2014
+ * [**Location**]: Amelia Island, Florida, US
+ * [**URL**]: http://cssconf.com/
+ * [**Twitter**]: [@cssconf](https://twitter.com/cssconf)
+ * [**Proposal**]: SOON
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a (probably)
 
 
 ## JSConf US
