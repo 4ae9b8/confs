@@ -44,7 +44,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
 ## JSConf Uruguay
  * [**Date**]: 14- 15.03.2014
  * [**Location**]: Montevideo, Uruguay
- * [**URL**]: httphttp://jsconf.uy/
+ * [**URL**]: http://jsconf.uy/
  * [**Twitter**]: [@JSConfUY](https://twitter.com/JSConfUY)
  * [**Proposal**]: [proposals](http://jsconf.uy/proposals)
  * [**Deadline**]: 17.01.2014
@@ -152,13 +152,13 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: n/a
 
 
-## CSSSConf US
+## CSSConf US
  * [**Date**]: 27.05.2014
  * [**Location**]: Amelia Island, Florida, US
  * [**URL**]: http://cssconf.com/
  * [**Twitter**]: [@cssconf](https://twitter.com/cssconf)
- * [**Proposal**]: SOON
- * [**Deadline**]: n/a
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/1Wtr_YoL3lKQw_9jcIZbI37xyR-I7mVdwP18_bOsP8d4/viewform)
+ * [**Deadline**]: 7.02.2014
  * [**Expenses covered**]: n/a (probably)
 
 
