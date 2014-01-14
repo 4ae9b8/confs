@@ -187,7 +187,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Location**]: New Orleans, US
  * [**URL**]: http://2014.cssdevconf.com/
  * [**Twitter**]: [@cssdevconf](https://twitter.com/cssdevconf)
- * [**Proposal**]: TBA
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/1yA0ixGrpdhdAJJZiVjaq0VVOEFVvGJdNEZrmFWwVcVA/viewform)
  * [**Deadline**]: n/a
  * [**Expenses covered**]: n/a
 
