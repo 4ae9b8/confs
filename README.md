@@ -152,6 +152,16 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: n/a
 
 
+## CampJS
+ * [**Date**]: 23-26.05.2014
+ * [**Location**]: Melbourne, Australia
+ * [**URL**]: http://campjs.com/index.html
+ * [**Twitter**]: [@campjsnews](https://twitter.com/campjsnews)
+ * [**Proposal**]: [CFP](http://campjs.com/cfp.html)
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a
+
+
 ## CSSConf US
  * [**Date**]: 27.05.2014
  * [**Location**]: Amelia Island, Florida, US
