@@ -187,9 +187,9 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Location**]: Bologna, Italy
  * [**URL**]: http://2014.fromthefront.it/
  * [**Twitter**]: [@fromthefront](https://twitter.com/fromthefront)
- * [**Proposal**]: n/a
- * [**Deadline**]: n/a
- * [**Expenses covered**]: n/a
+ * [**Proposal**]: [Lanyrd](http://lanyrd.com/2014/fromthefront/calls/qtyf/)
+ * [**Deadline**]: 28.02.2014
+ * [**Expenses covered**]: yes
 
 
 ## CSS Dev Conf
