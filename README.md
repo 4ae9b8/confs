@@ -103,6 +103,16 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
 
 
 ## JS Unconf
+ * [**Date**]: 26.04.2014
+ * [**Location**]: Fortaleza, Brazil
+ * [**URL**]: http://2014.jsconfbr.org/
+ * [**Twitter**]: [@jsconfbr](https://twitter.com/jsconfbr)
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/1MX7mOoZc-RjyAUgzil8jI6MiLVmicZ4INA-Pjwb1PpA/viewform)
+ * [**Deadline**]: [end of January?](https://twitter.com/qmx/status/425675908838866944)
+ * [**Expenses covered**]: yes
+
+
+## JS Unconf
  * [**Date**]: 26 - 27.04.2014
  * [**Location**]: Hamburg, Germany
  * [**URL**]: http://2014.jsunconf.eu/
