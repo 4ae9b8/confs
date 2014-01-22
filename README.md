@@ -82,6 +82,16 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: n/a (probably)
 
 
+## JSConf Australia
+ * [**Date**]: 10.04.2014
+ * [**Location**]: Melbourne, Australia
+ * [**URL**]: http://au.jsconf.com/
+ * [**Twitter**]: [@JSConfAU](https://twitter.com/JSConfAU)
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/1EANtP--G_tQj1eTTgdYHR6Cy_Fwxj2SuVPlNInQDH5Q/viewform)
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a (probably)
+
+
 ## Devoxx France
  * [**Date**]: 16 - 18.04.2014
  * [**Location**]: Paris, France
