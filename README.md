@@ -79,7 +79,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Twitter**]: [@cssconfau](https://twitter.com/cssconfau)
  * [**Proposal**]: SOON
  * [**Deadline**]: n/a
- * [**Expenses covered**]: n/a (probably)
+ * [**Expenses covered**]: within a certain sum
 
 
 ## JSConf Australia
