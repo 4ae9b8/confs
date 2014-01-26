@@ -128,7 +128,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://futurejs.org
  * [**Twitter**]: [@futurejs](https://twitter.com/futurejs)
  * [**Proposal**]: "Suggest a speaker" on the left
- * [**Deadline**]: n/a
+ * [**Deadline**]: closed
  * [**Expenses covered**]: n/a
 
 
