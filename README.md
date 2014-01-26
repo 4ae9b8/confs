@@ -102,7 +102,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: no
 
 
-## JSconf Bazil
+## JSconf Brazil
  * [**Date**]: 26.04.2014
  * [**Location**]: Fortaleza, Brazil
  * [**URL**]: http://2014.jsconfbr.org/
