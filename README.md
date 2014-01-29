@@ -212,6 +212,16 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: yes
 
 
+## Nordic JS
+ * [**Date**]: 18 - 19.09.2014
+ * [**Location**]: Stockholm, Sweden
+ * [**URL**]: http://nordicjs.com/
+ * [**Twitter**]: [@nordicjs](https://twitter.com/nordicjs)
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/1SeREqrU7Icqp-EQ1jKzxm214MUjeP3ORXmXv0OB12HM/viewform)
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a
+
+
 ## CSS Dev Conf
  * [**Date**]: 13 - 15.10.2014
  * [**Location**]: New Orleans, US
