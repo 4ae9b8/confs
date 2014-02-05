@@ -78,7 +78,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://2014.cssconf.com.au/
  * [**Twitter**]: [@cssconfau](https://twitter.com/cssconfau)
  * [**Proposal**]: SOON
- * [**Deadline**]: n/a
+ * [**Deadline**]: 21.02.2014
  * [**Expenses covered**]: within a certain sum
 
 
