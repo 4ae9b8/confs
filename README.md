@@ -37,7 +37,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://www.londonjsconf.com
  * [**Twitter**]: ?
  * [**Proposal**]: E-Mail to contact@eventhandler.co.uk
- * [**Deadline**]: n/a
+ * [**Deadline**]: CLOSED
  * [**Expenses covered**]: n/a
 
 
@@ -47,7 +47,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://jsconf.uy/
  * [**Twitter**]: [@JSConfUY](https://twitter.com/JSConfUY)
  * [**Proposal**]: [proposals](http://jsconf.uy/proposals)
- * [**Deadline**]: 17.01.2014
+ * [**Deadline**]: 17.01.2014 - CLOSED
  * [**Expenses covered**]: transport + hotel (2 nights before + 1 night after)
 
 
@@ -58,7 +58,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://jseverywhere.eu/
  * [**Twitter**]: [@jseverywhere](https://twitter.com/jseverywhere/)
  * [**Proposal**]: [form](https://docs.google.com/forms/d/1jUlzfq6tGYMICkkaMHuuGNlEBTRl8uO1_6Uv1tMe40o/viewform)
- * [**Deadline**]: 12.01.2014
+ * [**Deadline**]: 12.01.2014 - CLOSED
  * [**Expenses covered**]: no
 
 
@@ -68,7 +68,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://bed-con.org/
  * [**Twitter**]: [@bedcon](https://twitter.com/bedcon)
  * [**Proposal**]: [form](http://bed-con.org/2014/cfp) (English or German)
- * [**Deadline**]: 15.01.2014
+ * [**Deadline**]: 15.01.2014 - CLOSED
  * [**Expenses covered**]: n/a
 
 
@@ -98,7 +98,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://www.devoxx.fr/
  * [**Twitter**]: [@devoxxfr](https://twitter.com/devoxxfr)
  * [**Proposal**]: [CFP](http://cfp.devoxx.fr/) (English or French)
- * [**Deadline**]: 2.02.2014
+ * [**Deadline**]: 2.02.2014 - CLOSED
  * [**Expenses covered**]: no
 
 
@@ -108,7 +108,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://2014.jsconfbr.org/
  * [**Twitter**]: [@jsconfbr](https://twitter.com/jsconfbr)
  * [**Proposal**]: [form](https://docs.google.com/forms/d/1MX7mOoZc-RjyAUgzil8jI6MiLVmicZ4INA-Pjwb1PpA/viewform)
- * [**Deadline**]: [end of January?](https://twitter.com/qmx/status/425675908838866944)
+ * [**Deadline**]: [end of January?](https://twitter.com/qmx/status/425675908838866944) - CLOSED
  * [**Expenses covered**]: yes
 
 
@@ -128,7 +128,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://futurejs.org
  * [**Twitter**]: [@futurejs](https://twitter.com/futurejs)
  * [**Proposal**]: "Suggest a speaker" on the left
- * [**Deadline**]: closed
+ * [**Deadline**]: CLOSED
  * [**Expenses covered**]: n/a
 
 
@@ -168,7 +168,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://devslovebacon.com/
  * [**Twitter**]: [@DevsLoveBacon](https://twitter.com/DevsLoveBacon)
  * [**Proposal**]: [form](http://devslovebacon.com/conferences/bacon-2014/submissions/new)
- * [**Deadline**]: 16.01.2014
+ * [**Deadline**]: 16.01.2014 - CLOSED
  * [**Expenses covered**]: n/a
 
 
@@ -198,7 +198,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://2014.jsconf.us/
  * [**Twitter**]: [@jsconf](https://twitter.com/jsconf)
  * [**Proposal**]: [form](https://docs.google.com/spreadsheet/viewform?formkey=dG5rWWZSNDA1SWMtbWxncUZoYmN2VWc6MA)
- * [**Deadline**]: 10.01.2014
+ * [**Deadline**]: 10.01.2014 - CLOSED
  * [**Expenses covered**]: travel (incl. airport-hotel) + hotel (up to 4 nights)
 
 
