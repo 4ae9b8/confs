@@ -222,6 +222,16 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: n/a
 
 
+## WebDevConf
+ * [**Date**]: 9 - 10.10.2014
+ * [**Location**]: Bristol, UK
+ * [**URL**]: http://2014.webdevconf.com/
+ * [**Twitter**]: [@webdevconf](https://twitter.com/webdevconf)
+ * [**Proposal**]: [email at speakers@webdevconf.com](http://alexolder.com/speak-at-wdc2014/)
+ * [**Deadline**]: 21.02.2014
+ * [**Expenses covered**]: yes (travel + hotel, 2 nights)
+
+
 ## CSS Dev Conf
  * [**Date**]: 13 - 15.10.2014
  * [**Location**]: New Orleans, US
