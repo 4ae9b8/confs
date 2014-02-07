@@ -188,7 +188,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://cssconf.com/
  * [**Twitter**]: [@cssconf](https://twitter.com/cssconf)
  * [**Proposal**]: [form](https://docs.google.com/forms/d/1Wtr_YoL3lKQw_9jcIZbI37xyR-I7mVdwP18_bOsP8d4/viewform)
- * [**Deadline**]: 7.02.2014
+ * [**Deadline**]: 7.02.2014 - CLOSED
  * [**Expenses covered**]: n/a (probably)
 
 
