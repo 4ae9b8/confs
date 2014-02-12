@@ -202,6 +202,16 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: travel (incl. airport-hotel) + hotel (up to 4 nights)
 
 
+## SwissJeese
+ * [**Date**]: 26.07.2014
+ * [**Location**]: Bern, Switzerland
+ * [**URL**]: http://www.swissjeese.com/
+ * [**Twitter**]: [@SwissJesse](https://twitter.com/SwissJesse)
+ * [**Proposal**]: [form](http://www.swissjeese.com/callpapers.html)
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a
+
+
 ## From The Front
  * [**Date**]: 18 - 19.09.2014
  * [**Location**]: Bologna, Italy
