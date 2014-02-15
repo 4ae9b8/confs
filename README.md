@@ -88,7 +88,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://au.jsconf.com/
  * [**Twitter**]: [@JSConfAU](https://twitter.com/JSConfAU)
  * [**Proposal**]: [form](https://docs.google.com/forms/d/1EANtP--G_tQj1eTTgdYHR6Cy_Fwxj2SuVPlNInQDH5Q/viewform)
- * [**Deadline**]: n/a
+ * [**Deadline**]: 24.02.2014
  * [**Expenses covered**]: n/a (probably)
 
 
@@ -100,6 +100,16 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Proposal**]: [CFP](http://cfp.devoxx.fr/) (English or French)
  * [**Deadline**]: 2.02.2014 - CLOSED
  * [**Expenses covered**]: no
+
+
+## Bocoup OpenVis Conf
+ * [**Date**]: 24 - 25.04.2014
+ * [**Location**]: Boston, US
+ * [**URL**]: http://openvisconf.com/
+ * [**Twitter**]: [@OpenVisConf](https://twitter.com/OpenVisConf)
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/15ZvizW_dNBaprNtn7fXSeHd8jrT8FYDHRdPftCvMP70/viewform)
+ * [**Deadline**]: 28.02.2014
+ * [**Expenses covered**]: yes (qualified? travel + hotel)
 
 
 ## JSconf Brazil
@@ -129,6 +139,16 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Twitter**]: [@futurejs](https://twitter.com/futurejs)
  * [**Proposal**]: "Suggest a speaker" on the left
  * [**Deadline**]: CLOSED
+ * [**Expenses covered**]: n/a
+
+
+## EmpireJS
+ * [**Date**]: 5 - 5.05.2014
+ * [**Location**]: New York, US
+ * [**URL**]: http://2014.empirejs.org/
+ * [**Twitter**]: [@EmpireJS](https://twitter.com/EmpireJS)
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/1h0EEcAG67zB8RA7kJZAVYW9u95ZDch1hZBxIogNMRaw/viewform)
+ * [**Deadline**]: n/a
  * [**Expenses covered**]: n/a
 
 
