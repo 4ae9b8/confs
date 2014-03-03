@@ -78,7 +78,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://2014.cssconf.com.au/
  * [**Twitter**]: [@cssconfau](https://twitter.com/cssconfau)
  * [**Proposal**]: SOON
- * [**Deadline**]: 21.02.2014
+ * [**Deadline**]: 21.02.2014 - CLOSED
  * [**Expenses covered**]: within a certain sum
 
 
@@ -88,7 +88,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://au.jsconf.com/
  * [**Twitter**]: [@JSConfAU](https://twitter.com/JSConfAU)
  * [**Proposal**]: [form](https://docs.google.com/forms/d/1EANtP--G_tQj1eTTgdYHR6Cy_Fwxj2SuVPlNInQDH5Q/viewform)
- * [**Deadline**]: 24.02.2014
+ * [**Deadline**]: 24.02.2014 - CLOSED
  * [**Expenses covered**]: n/a (probably)
 
 
@@ -108,7 +108,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://openvisconf.com/
  * [**Twitter**]: [@OpenVisConf](https://twitter.com/OpenVisConf)
  * [**Proposal**]: [form](https://docs.google.com/forms/d/15ZvizW_dNBaprNtn7fXSeHd8jrT8FYDHRdPftCvMP70/viewform)
- * [**Deadline**]: 28.02.2014
+ * [**Deadline**]: 28.02.2014 - CLOSED
  * [**Expenses covered**]: yes (qualified? travel + hotel)
 
 
@@ -168,7 +168,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://scotlandjs.com/
  * [**Twitter**]: [@scotlandjs](https://twitter.com/scotlandjs)
  * [**Proposal**]: [form](http://cfp.scotlandjs.com/)
- * [**Deadline**]: 12.02.2014
+ * [**Deadline**]: 12.02.2014 - CLOSED
  * [**Expenses covered**]: n/a
 
 
@@ -178,7 +178,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://2014.jsday.it/
  * [**Twitter**]: [@jsconfit](https://twitter.com/jsconfit)
  * [**Proposal**]: [form](http://2014.jsday.it/call-for-papers/)
- * [**Deadline**]: 28.02.2014
+ * [**Deadline**]: 28.02.2014 - CLOSED
  * [**Expenses covered**]: travel (up to €200) + accomodation (up to 2 nights)
 
  
@@ -222,13 +222,33 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Expenses covered**]: travel (incl. airport-hotel) + hotel (up to 4 nights)
 
 
+## LXJS
+ * [**Date**]: 27 - 28.06.2014
+ * [**Location**]: Lisbon, Portugal
+ * [**URL**]: http://2014.lxjs.org/
+ * [**Twitter**]: [@lxjs](https://twitter.com/lxjs)
+ * [**Proposal**]: [form](https://docs.google.com/forms/d/1qO_cebwK0ISSbRwYFmojr-A9gR4xUT3W0_LMItkLbgA/viewform)
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a
+
+
 ## SwissJeese
  * [**Date**]: 26.07.2014
  * [**Location**]: Bern, Switzerland
  * [**URL**]: http://www.swissjeese.com/
- * [**Twitter**]: [@SwissJesse](https://twitter.com/SwissJesse)
+ * [**Twitter**]: [@SwissJeese](https://twitter.com/SwissJeese)
  * [**Proposal**]: [form](http://www.swissjeese.com/callpapers.html)
  * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a
+
+
+## Cascadia JS
+ * [**Date**]: 31.07 - 1.08.2014
+ * [**Location**]: Portland, US
+ * [**URL**]: http://2014.cascadiajs.com/
+ * [**Twitter**]: [@CascadiaJS](https://twitter.com/CascadiaJS)
+ * [**Proposal**]: [GitHub](httphttps://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/README.md#call-for-proposals--the-details)
+ * [**Deadline**]: 15.04.2014
  * [**Expenses covered**]: n/a
 
 
@@ -238,7 +258,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://2014.fromthefront.it/
  * [**Twitter**]: [@fromthefront](https://twitter.com/fromthefront)
  * [**Proposal**]: [Lanyrd](http://lanyrd.com/2014/fromthefront/calls/qtyf/)
- * [**Deadline**]: 28.02.2014
+ * [**Deadline**]: 28.02.2014 - CLOSED
  * [**Expenses covered**]: yes
 
 
@@ -258,7 +278,7 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**URL**]: http://2014.webdevconf.com/
  * [**Twitter**]: [@webdevconf](https://twitter.com/webdevconf)
  * [**Proposal**]: [email at speakers@webdevconf.com](http://alexolder.com/speak-at-wdc2014/)
- * [**Deadline**]: 21.02.2014
+ * [**Deadline**]: 21.02.2014 - CLOSED
  * [**Expenses covered**]: yes (travel + hotel, 2 nights)
 
 
