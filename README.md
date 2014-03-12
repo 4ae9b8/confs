@@ -300,3 +300,13 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Proposal**]: n/a
  * [**Deadline**]: n/a
  * [**Expenses covered**]: travel (incl. airport to hotel) + hotel
+
+
+## Build Stuff
+ * [**Date**]: 19 -21.11.2014
+ * [**Location**]: Vilnius, Lithuania
+ * [**URL**]: http://buildstuff.lt/
+ * [**Twitter**]: [@BuildStuffLT](https://twitter.com/BuildStuffLT)
+ * [**Proposal**]: n/a
+ * [**Deadline**]: n/a
+ * [**Expenses covered**]: n/a
