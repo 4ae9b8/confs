@@ -251,6 +251,14 @@ blendconf https://twitter.com/blendconf/status/413681788536758272
  * [**Deadline**]: 15.04.2014
  * [**Expenses covered**]: n/a
 
+## CSSConf Europe 
+ * [**Date**]: 12.09.2014 
+ * [**Location**]: Berlin, Germany
+ * [**URL**]: http://2014.cssconf.eu/
+ * [**Twitter**]: [@cssconfeu](https://twitter.com/cssconfeu)
+ * [**Proposal**]: [form](http://2014.cssconf.eu/call-for-speakers.html)
+ * [**Deadline**]: 01.07.2014 - OPEN
+ * [**Expenses covered**]: yes
 
 ## From The Front
  * [**Date**]: 18 - 19.09.2014
